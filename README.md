@@ -1,27 +1,54 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=200&section=header&text=hey,%20i'm%20dhaval%20👾&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=CSE%20@%20VIT%20Chennai%20·%20building%20in%20public&descAlignY=58&descSize=18&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=hey,%20i'm%20dhaval%20👾&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=CSE%20@%20VIT%20Chennai%20·%20building%20in%20public&descAlignY=58&descSize=18&animation=twinkling" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=22&pause=1000&color=7F77DD&center=true&vCenter=true&random=false&width=600&lines=python+main+🐍;ai%2Fml+girlie+🤖;full-stack+dev+in+progress+🔨;hackathon+hunter+⚡;open+to+collabs+%F0%9F%A4%9D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=24&pause=800&color=7F77DD&center=true&vCenter=true&random=false&width=650&lines=python+main+🐍;ai%2Fml+bro+🤖;full-stack+dev+in+progress+🔨;hackathon+hunter+⚡;DSA+grinder+💀;open+to+collabs+🤝;VIT+Chennai+represent+🔥)](https://git.io/typing-svg)
 
 </div>
 
+<br>
+
 <div align="center">
 
-`python main` &nbsp;·&nbsp; `ai/ml girlie` &nbsp;·&nbsp; `📍 VIT Chennai` &nbsp;·&nbsp; `open to collabs` &nbsp;·&nbsp; `hackathon hunter`
+<img src="https://komarev.com/ghpvc/?username=DhavalGupta1&style=for-the-badge&color=7F77DD&label=PROFILE+VIEWS" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/DhavalGupta1?style=for-the-badge&color=7F77DD&labelColor=1a1a2e&label=FOLLOWERS" />
 
 </div>
 
 ---
 
-## 🧠 what i actually know (no cap)
+## 👨‍💻 about me
+
+```python
+class Dhaval:
+    def __init__(self):
+        self.name        = "Dhaval Gupta"
+        self.college     = "VIT Chennai"
+        self.year        = "1st year CSE"
+        self.languages   = ["Python 🐍", "C", "C++", "C#"]
+        self.interests   = ["AI/ML", "Full-Stack Dev", "Hackathons"]
+        self.currently   = "locking in on DSA + shipping projects"
+        self.goal        = "full-stack dev & AI/ML engineer (the plan™)"
+        self.fun_fact    = "i break things and call it debugging"
+
+    def say_hi(self):
+        print("hey! let's build something cool 🚀")
+
+me = Dhaval()
+me.say_hi()
+```
+
+---
+
+## 🧠 tech stack (no cap)
 
 <details open>
-<summary><b>languages (my children)</b></summary>
+<summary><b>🐍 languages</b></summary>
 <br>
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -32,7 +59,7 @@
 </details>
 
 <details open>
-<summary><b>AI / ML 🤖</b></summary>
+<summary><b>🤖 AI / ML</b></summary>
 <br>
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -45,7 +72,7 @@
 </details>
 
 <details open>
-<summary><b>web / backend 🌐</b></summary>
+<summary><b>🌐 web / backend</b></summary>
 <br>
 
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
@@ -56,7 +83,7 @@
 </details>
 
 <details open>
-<summary><b>databases 🗄️</b></summary>
+<summary><b>🗄️ databases</b></summary>
 <br>
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -66,7 +93,7 @@
 </details>
 
 <details open>
-<summary><b>tools & other drip 🛠️</b></summary>
+<summary><b>🛠️ tools & other drip</b></summary>
 <br>
 
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -77,6 +104,7 @@
 ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c)
 ![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </details>
 
@@ -86,11 +114,46 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=DhavalGupta1&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DhavalGupta1&theme=tokyo-night&hide_border=true&area=true&custom_title=contribution%20graph%20(the%20grind%20never%20stops)" />
 
-![](https://nirzak-streak-stats.vercel.app/?user=DhavalGupta1&theme=tokyonight&hide_border=true)
+</div>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DhavalGupta1&theme=tokyonight&hide_border=true&layout=compact)
+<br>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DhavalGupta1&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&show_icons=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhavalGupta1&theme=tokyonight&hide_border=true&layout=compact" />
+
+</div>
+
+<div align="center">
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=DhavalGupta1&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🏆 github trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=DhavalGupta1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
+
+</div>
+
+---
+
+## 🐍 watch my contributions get eaten
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DhavalGupta1/DhavalGupta1/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DhavalGupta1/DhavalGupta1/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/DhavalGupta1/DhavalGupta1/output/github-snake.svg" />
+</picture>
 
 </div>
 
@@ -108,19 +171,13 @@
 
 ---
 
-## 🐍 contribution snake
+## 🎵 vibing to
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DhavalGupta1/DhavalGupta1/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DhavalGupta1/DhavalGupta1/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/DhavalGupta1/DhavalGupta1/output/github-snake.svg" />
-</picture>
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/)
 
 </div>
-
-> ⚠️ snake needs a GitHub Action to generate — see setup note below
 
 ---
 
@@ -141,8 +198,12 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=100&section=footer&animation=fadeIn" />
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
 
 *made with too much caffeine · VIT Chennai · 2024–present*
-
 </div>
