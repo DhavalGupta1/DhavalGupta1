@@ -1,32 +1,58 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=dhaval&fontSize=60&fontColor=ffffff&fontAlignY=34&desc=cse%20·%20vit%20chennai&descAlignY=56&descSize=16&animation=twinkling" width="100%" />
-
-```py
-class Dhaval:
-    stack    = ["Python", "C", "C++", "C#", "JS"]
-    into     = ["AI/ML", "Full-Stack", "Hackathons"]
-    current  = "DSA grind + shipping projects"
-    editors  = "VS Code + vim keybinds"
-```
+<!-- CODER AESTHETIC GIF -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3B5a21xNno4c3RwbDR3M2VtcThma2V4dzJ4aWZ5bndzNDBhdmphNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Y34mR8YB7R4tFM1DJW/giphy.gif" width="400" />
 
 </div>
 
 ---
 
-### `$ cat tech.txt`
+### 🛠️ Tech Stack
 
-```
-languages   → Python · C · C++ · C# · JavaScript
-ai/ml       → PyTorch · TensorFlow · scikit-learn · NumPy · Pandas
-web         → Flask · HTML · CSS · JS
-databases   → MySQL · SQLite · MS SQL Server
-tools       → Git · Arduino · Raspberry Pi · Blender · FFmpeg · Elasticsearch
-```
+<div align="center">
+
+**Languages**
+<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**AI / ML**
+<br>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+**Web & Backend**
+<br>
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Databases**
+<br>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+**Tools & Hardware**
+<br>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
+
+</div>
 
 ---
 
-### `$ cat stats.json`
+### 📊 Stats
 
 <div align="center">
 
@@ -42,27 +68,7 @@ tools       → Git · Arduino · Raspberry Pi · Blender · FFmpeg · Elasticse
 
 ---
 
-### `$ git log --oneline contributions`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DhavalGupta1&theme=github-compact&hide_border=true&area=true" width="95%"/>
-
-</div>
-
----
-
-### `$ neofetch trophies`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=DhavalGupta1&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" width="90%"/>
-
-</div>
-
----
-
-### `$ ./snake contrib-graph`
+### 🐍 Snake
 
 <div align="center">
 <picture>
@@ -74,7 +80,7 @@ tools       → Git · Arduino · Raspberry Pi · Blender · FFmpeg · Elasticse
 
 ---
 
-### `$ cat links.md`
+### 🔗 Connect
 
 <div align="center">
 
@@ -83,8 +89,4 @@ tools       → Git · Arduino · Raspberry Pi · Blender · FFmpeg · Elasticse
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:work.dhavalgupta@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/DhavalGupta1)
 
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%" />
 </div>
