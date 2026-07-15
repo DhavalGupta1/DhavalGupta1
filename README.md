@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- CODER AESTHETIC GIF -->
-<img src="https://media.giphy.com/media/Y34mR8YB7R4tFM1DJW/giphy.gif" width="400" />
+<!-- CODER AESTHETIC GIF (locally hosted to ensure it loads) -->
+<img src="./assets/coding.gif" width="450" />
 
 </div>
 
@@ -56,13 +56,13 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DhavalGupta1&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&show_icons=true" />
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=DhavalGupta1&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&show_icons=true" />
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhavalGupta1&theme=tokyonight&hide_border=true&layout=compact" />
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=DhavalGupta1&theme=tokyonight&hide_border=true&layout=compact" />
 
 <br><br>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=DhavalGupta1&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=DhavalGupta1&theme=tokyonight&hide_border=true" />
 
 </div>
 
