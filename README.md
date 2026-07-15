@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- CODER AESTHETIC GIF -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3B5a21xNno4c3RwbDR3M2VtcThma2V4dzJ4aWZ5bndzNDBhdmphNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Y34mR8YB7R4tFM1DJW/giphy.gif" width="400" />
+<img src="https://media.giphy.com/media/Y34mR8YB7R4tFM1DJW/giphy.gif" width="400" />
 
 </div>
 
@@ -56,13 +56,13 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=DhavalGupta1&theme=github_dark&hide_border=true&include_all_commits=true&show_icons=true&icon_color=7f77dd&title_color=7f77dd" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DhavalGupta1&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&show_icons=true" />
 &nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhavalGupta1&theme=github_dark&hide_border=true&layout=compact&title_color=7f77dd" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhavalGupta1&theme=tokyonight&hide_border=true&layout=compact" />
 
-<br>
+<br><br>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=DhavalGupta1&theme=github-dark-blue&hide_border=true" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=DhavalGupta1&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -74,7 +74,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DhavalGupta1/DhavalGupta1/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DhavalGupta1/DhavalGupta1/output/github-snake.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/DhavalGupta1/DhavalGupta1/output/github-snake-dark.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/DhavalGupta1/DhavalGupta1/output/github-snake.svg" />
 </picture>
 </div>
 
